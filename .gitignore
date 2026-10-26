@@ -1,0 +1,11 @@
+# Somente os arquivos da entrega.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/index.c
+!/Cadastro_de_Compras_ARA0363.pdf
+!/evidencias/
+/evidencias/*
+!/evidencias/*.png
+!/evidencias/aval1234.txt
